@@ -1,4 +1,4 @@
 # Проекты от заказчиков
 | Название проекта  | Навыки и инструменты  | Задачи проекта  | 
 |------------- |------------- |------------- |
-| [1. Создание дашборда для БФ Рауль](https://github.com/SergeyGalim/Projects/tree/main/%D0%91%D0%A4%20%D0%A0%D0%B0%D1%83%D0%BB%D1%8C) | python, pandas, matplotlib, seaborn, numpy, datetime, DataLens | По данным бюджетного фонда "Рауль" построить дашборд, отражающий структуру и динамику трудоустройств. | 
+| [1. Создание дашборда для БФ Рауль](https://github.com/SergeyGalim/Projects/tree/main/%D0%91%D0%A4%20%D0%A0%D0%B0%D1%83%D0%BB%D1%8C) | DataLens, python, pandas, matplotlib, seaborn, numpy, datetime  | По данным бюджетного фонда "Рауль" построить дашборд, отражающий структуру и динамику трудоустройств. | 
