@@ -1,4 +1,5 @@
-# [АНО Рак победим](https://github.com/SergeyGalim/Projects/blob/main/%D0%90%D0%9D%D0%9E%20%D0%A0%D0%B0%D0%BA%20%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D0%BC/%D0%90%D0%9D%D0%9E_%D0%A0%D0%B0%D0%BA_%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D0%BC.ipynb)
+# [АНО Рак победим тетрадь](https://github.com/SergeyGalim/Projects/blob/main/%D0%90%D0%9D%D0%9E%20%D0%A0%D0%B0%D0%BA%20%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D0%BC/%D0%90%D0%9D%D0%9E_%D0%A0%D0%B0%D0%BA_%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D0%BC.ipynb)
+# [АНО Рак победим дашборд](https://datalens.yandex/trfma9jgu7hqh?tab=Ja)
 ## Данные подопечных
 - ФИО;
 - Email;
@@ -39,6 +40,7 @@
 
 Устранить другие неточности в данных, провести анализ и дать рекомендации по сбору данных на будущее.
 ### Инструменты
+- *datalens*
 - *pandas*
 - *numpy*
 - *seaborn*
