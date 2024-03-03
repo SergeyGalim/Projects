@@ -1,4 +1,5 @@
-# [Проект БФ Рауль](https://github.com/SergeyGalim/Projects/blob/main/%D0%91%D0%A4%20%D0%A0%D0%B0%D1%83%D0%BB%D1%8C/Project.ipynb)
+# [Проект БФ Рауль тетрадь](https://github.com/SergeyGalim/Projects/blob/main/%D0%91%D0%A4%20%D0%A0%D0%B0%D1%83%D0%BB%D1%8C/Project.ipynb)
+# [Проект БФ Рауль дашборд](https://datalens.yandex/nal0kvwcxfw0c)
 ## Данные
 - id кандидата
 - пол
